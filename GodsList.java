@@ -1,9 +1,6 @@
 package gmsanubis.com.company;
 
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-import java.util.Random;
+
 
 public enum GodsList {
     Achilles("w"),Agni("m"),AhMuzenCab("h"),AhPuch("m"),Amaterasu("w"),Anhur("h"),Anubis("m"),AoKuang("m"),Aphrodite("m"),Apollo("h"),Arachne("a"),Ares("g"),Artemis("h"),Artio("g"),Athena("g"),Awilix("a"),
