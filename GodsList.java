@@ -4,7 +4,7 @@ package gmsanubis.com.company;
 
 public enum GodsList {
     Achilles("w"),Agni("m"),AhMuzenCab("h"),AhPuch("m"),Amaterasu("w"),Anhur("h"),Anubis("m"),AoKuang("m"),Aphrodite("m"),Apollo("h"),Arachne("a"),Ares("g"),Artemis("h"),Artio("g"),Athena("g"),Awilix("a"),
-    Bacchus("g"),Bakasura("a"),BaronSamedi("m"),Bastet("a"),Bellona("g"),
+    BabaYaga("m"),Bacchus("g"),Bakasura("a"),BaronSamedi("m"),Bastet("a"),Bellona("g"),
     Cabrakan("w"),Camazotz("a"),Cerberus("g"),Cernunnos("h"),Chaac("w"),Change("m"),Chernobog("h"),Chiron("h"),Chronos("m"),CuChulain("w"),Cupid("h"),
     Daji("a"),Discordia("m"),
     ErlangShen("w"),
